@@ -1,3 +1,3 @@
-�T�[�o��ɓ_�݂���pdf���ꊇ�Ŏ擾����X�N���v�g�ł��DMac�ł̂ݓ���m�F�ς�
+サーバ上に点在するpdfを一括で取得するスクリプトです．Macでのみ動作確認済み
 
-showAllPdf.py�́Cpdf�_������^�C�g���ƊT�v���擾���������Ɏg���܂��D
+showAllPdf.pyは，サーアバー上に保存された複数のpdfファイルの論文からタイトルと概要を取得したい時に使います．
